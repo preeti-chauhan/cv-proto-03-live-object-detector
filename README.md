@@ -2,7 +2,7 @@
 
 Real-time object detection on iPhone — YOLOv8n running on the Neural Engine at 30 FPS, bounding boxes overlaid live via `AVCaptureSession`. Point the camera at anything from the COCO 80 classes and detections appear instantly.
 
-[Read the blog post →](https://www.preeti-chauhan.com/Live-Object-Detector/)
+[Read the blog post →](https://www.preeti-chauhan.com/blog/2026/Live-Object-Detector/)
 
 ---
 
